@@ -6,4 +6,4 @@ Our model is capable of predicting mortality of TIC at > 95% accuracy. With effe
 
 Analysis of the features selected may further provide insight into the biomechanics of TIC. 
 
-This work is an ongoing summer project as a part of the Cellular Bioengineering REU at Rutgers University, with funding by the NSF. 
+This work is an ongoing summer project as a part of a Cellular Bioengineering REU, with funding by the NSF. 
