@@ -1,4 +1,4 @@
-Using python and relevant libraries like tensorflow and sklearn, we intend to create a machine learning model capable of predicting occurrence of trauma induced coagulopathy (TIC). 
+Using python and relevant libraries like tensorflow and sklearn, we intend to create a machine learning model capable of predicting the occurrence of trauma induced coagulopathy (TIC). 
 
 Our approach uses an auto encoder, a diverse selection of classifiers, and perturbation analysis of more complex models to not only predict mortality of TIC in our dataset with coagulation and proteomics data, but also quantitative describe features of most importance. 
 
